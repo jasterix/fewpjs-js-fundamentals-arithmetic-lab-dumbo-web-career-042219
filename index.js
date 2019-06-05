@@ -1,6 +1,6 @@
 // Write your code here
 
-let num1 
-let num2
+const var1 = 2
+const var2 = 31
 
 var multiply = num1*num2
