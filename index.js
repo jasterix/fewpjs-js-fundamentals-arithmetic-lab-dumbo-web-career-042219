@@ -9,4 +9,4 @@ let random = Math.random()
 
 let mod = 28%3
 
-lwr max = Math.max(12,5,20)
+ler max = Math.max(12,5,20)
